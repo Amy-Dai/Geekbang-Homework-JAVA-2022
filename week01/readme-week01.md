@@ -10,6 +10,9 @@
 
 
 3.（必做）画一张图，展示 Xmx、Xms、Xmn、Meta、DirectMemory、Xss 这些内存参数的关系。
+> [参考资料：java中栈内存与堆内存（JVM内存模型）](https://www.csdn.net/tags/NtzaAg1sNjQ4NjgtYmxvZwO0O0OO0O0O.html)
+> [参考资料：jvm内存参数图解，Xmn,Xms,Xmx,XX](https://blog.csdn.net/dshf_1/article/details/86492953)
+> TODO 
 
 4.（选做）检查一下自己维护的业务系统的 JVM 参数配置，用 jstat 和 jstack、jmap 查看一下详情，并且自己独立分析一下大概情况，思考有没有不合理的地方，如何改进。
 
