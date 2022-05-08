@@ -4,14 +4,16 @@
 
 2.（必做）自定义一个 Classloader，加载一个 Hello.xlass 文件，执行 Hello 方法，此文件内容是一个 Hello.class 文件所有字节（x=255-x）处理后的文件。文件在我的教室下载。
 > - 解答：
-> - https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week01/Q2/MyJAVA/src/main/java/org/example/HelloClassLoader.java
+> 
+>  https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week01/Q2/MyJAVA/src/main/java/org/example/HelloClassLoader.java
 
 > ![image](https://user-images.githubusercontent.com/56108927/166718976-7b7ff900-d990-43cf-aa1c-596a6e6062aa.png)
 
 
 3.（必做）画一张图，展示 Xmx、Xms、Xmn、Meta、DirectMemory、Xss 这些内存参数的关系。
 > - 解答：
-> - ![JVM内存启动参数 (1)](https://user-images.githubusercontent.com/56108927/167284664-0f8dd68f-993b-4681-9740-11d56f255043.jpg)
+> 
+> ![JVM内存启动参数 (1)](https://user-images.githubusercontent.com/56108927/167284664-0f8dd68f-993b-4681-9740-11d56f255043.jpg)
 
 
 > ## [Survivor Space Sizing](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/sizing.html#sthref22)
