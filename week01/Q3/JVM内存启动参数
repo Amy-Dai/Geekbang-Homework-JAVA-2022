@@ -1,35 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T04:46:49.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="8hqjxAMiyqgoaO9TBevh" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T05:20:46.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="JioBeqYg5LHh45JOl9wK" version="18.0.2" type="github">
   <diagram id="JuNcRnKE8zOwfPL1brgE" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-1" value="OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="680" width="440" height="60" as="geometry" />
+          <mxGeometry x="40" y="520" width="850" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="590" height="550" as="geometry" />
+          <mxGeometry x="40" y="30" width="720" height="480" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-3" value="Other Processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="120" height="250" as="geometry" />
+          <mxGeometry x="770" y="120" width="120" height="390" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-4" value="JAVA进程-内存分布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="120" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-5" value="线程1栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="40" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="570" height="340" as="geometry" />
+          <mxGeometry x="50" y="230" width="570" height="270" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-7" value="堆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="240" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-8" value="线程n栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-9" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="185" width="170" height="30" as="geometry" />
+          <mxGeometry x="290" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="290" height="210" as="geometry" />
@@ -67,11 +58,11 @@
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="340" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-23" value="常量池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt;Run-Time Constant Pool&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-24" value="方法区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt;Method Area&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-25" value="Meta Space" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="310" width="85" height="30" as="geometry" />
@@ -85,11 +76,17 @@
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-28" value="Code Cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-29" value="JVM自身的内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="500" width="550" height="60" as="geometry" />
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-30" value="线程2栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-31" value="Direct Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-34" value="PC Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-29" value="JVM Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
