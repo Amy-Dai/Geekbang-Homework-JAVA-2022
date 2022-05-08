@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T05:25:59.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="YYTHzwXbZ7csw1FGETjF" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T05:29:50.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="ny28E05LvUnSPBf9AcA6" version="18.0.2" type="github">
   <diagram id="JuNcRnKE8zOwfPL1brgE" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,11 +85,20 @@
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt;The &lt;/span&gt;&lt;span style=&quot;font-size: 9.02pt; font-family: Courier;&quot;&gt;pc&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt; Register&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UaDvU6g1F5QyGmIIXeR8-29" value="JVM Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="180" height="40" as="geometry" />
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="130" width="122.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-35" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt;Native Method Stacks&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="170" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-36" value="Memory Distribution for a JVM Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-38" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Roman;&quot;&gt;Frames&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaDvU6g1F5QyGmIIXeR8-39" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt;JVM Stack&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
