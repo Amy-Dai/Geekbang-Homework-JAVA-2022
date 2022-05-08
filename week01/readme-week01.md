@@ -4,7 +4,7 @@
 
 2.（必做）自定义一个 Classloader，加载一个 Hello.xlass 文件，执行 Hello 方法，此文件内容是一个 Hello.class 文件所有字节（x=255-x）处理后的文件。文件在我的教室下载。
 > 解答：
-> https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week01/Q3/MyJAVA/src/main/java/org/example/HelloClassLoader.java
+> https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week01/Q2/MyJAVA/src/main/java/org/example/HelloClassLoader.java
 
 > ![image](https://user-images.githubusercontent.com/56108927/166718976-7b7ff900-d990-43cf-aa1c-596a6e6062aa.png)
 
