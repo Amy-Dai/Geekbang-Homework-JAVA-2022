@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T06:08:06.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="VB0_GWCPV7695ZPmbOX3" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T06:08:43.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="ORTdejxwLJ0e-z9-kzr8" version="18.0.2" type="github">
   <diagram id="JuNcRnKE8zOwfPL1brgE" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,16 +17,16 @@
           <mxGeometry x="50" y="40" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="570" height="270" as="geometry" />
+          <mxGeometry x="50" y="230" width="580" height="270" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-7" value="Heap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="550" height="30" as="geometry" />
+          <mxGeometry x="60" y="240" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="290" height="210" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="250" height="210" as="geometry" />
+          <mxGeometry x="360" y="280" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="140" height="170" as="geometry" />
@@ -71,13 +71,13 @@
           <mxGeometry x="370" y="280" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-27" value="Compressed Class Space" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="310" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-28" value="Code Cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="410" width="80" height="70" as="geometry" />
+          <mxGeometry x="520" y="410" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="50" y="90" width="570" height="130" as="geometry" />
+          <mxGeometry x="50" y="90" width="580" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-31" value="Direct Memory&lt;br&gt;&lt;br&gt;(&lt;b&gt;&lt;i&gt;&lt;font color=&quot;#ff0000&quot;&gt;XX: MaxDirectMemorySize&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="90" width="150" height="410" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="200" y="130" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-35" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Bold; font-weight: bold;&quot;&gt;Native Method Stacks&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="130" width="195" height="80" as="geometry" />
+          <mxGeometry x="415" y="130" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-36" value="Memory Distribution for a JVM Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="100" width="550" height="20" as="geometry" />
+          <mxGeometry x="60" y="100" width="560" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UaDvU6g1F5QyGmIIXeR8-38" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Times-Roman;&quot;&gt;Frames&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="180" height="40" as="geometry" />
