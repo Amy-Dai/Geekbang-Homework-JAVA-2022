@@ -14,3 +14,7 @@
 ## 6.（必做）写一段代码，使用 HttpClient 或 OkHttp 访问  http://localhost:8801 ，代码提交到 GitHub。
 
 ### [解答见链接]()
+### 运行结果截图
+
+![image](https://user-images.githubusercontent.com/56108927/168415490-7226b2c7-b242-4315-9a6d-cfdaabae9f24.png)
+
