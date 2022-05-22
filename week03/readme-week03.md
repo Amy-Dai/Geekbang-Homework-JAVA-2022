@@ -22,6 +22,8 @@ https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/sr
 ### Q3.（必做）实现过滤器。
 https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/src/main/java/com/practice/nio/HttpClientHelper.java
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/src/main/java/com/practice/nio2/io/github/kimmking/gateway/inbound/HttpInboundHandler.java
+
 
 执行截图
 
