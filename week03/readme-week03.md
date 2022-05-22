@@ -11,6 +11,25 @@
 5. （选做）跑一跑课上的各个例子，加深对多线程的理解。
 6. （选做）完善网关的例子，试着调整其中的线程池参数。
 
+## 解答
+### Q1.（必做）整合你上次作业的 httpclient/okhttp。
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/src/main/java/com/practice/nio/HttpClientHelper.java
+
+执行截图：
+
+![image](https://user-images.githubusercontent.com/56108927/169657987-b8397149-6543-42f5-8da3-ed9ab6e471dc.png)
+
+### Q3.（必做）实现过滤器。
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/src/main/java/com/practice/nio/HttpClientHelper.java
+
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/src/main/java/com/practice/nio2/io/github/kimmking/gateway/inbound/HttpInboundHandler.java
+
+
+执行截图
+
+![image](https://user-images.githubusercontent.com/56108927/169675910-66dbf92a-cca8-4e98-b276-d744d8c8b66f.png)
+
+
 # 作业提交规范：
 
 作业不要打包 ；
