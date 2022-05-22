@@ -19,6 +19,14 @@ https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/sr
 
 ![image](https://user-images.githubusercontent.com/56108927/169657987-b8397149-6543-42f5-8da3-ed9ab6e471dc.png)
 
+### Q3.（必做）实现过滤器。
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week02/nio/src/main/java/com/practice/nio/HttpClientHelper.java
+
+
+执行截图
+
+![image](https://user-images.githubusercontent.com/56108927/169675910-66dbf92a-cca8-4e98-b276-d744d8c8b66f.png)
+
 
 # 作业提交规范：
 
