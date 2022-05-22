@@ -37,5 +37,8 @@ public class HttpClientHelper {
         String url = "http://localhost:8888";
         String text = HttpClientHelper.getAsString(url);
         System.out.println("url: " + url + " ; response: \n" + text);
+
+        String testURL = url + "/test";
+        System.out.println("testURL: " + testURL + "; response: \n" + HttpClientHelper.getAsString(testURL));
     }
 }
