@@ -22,6 +22,10 @@
 
 ## 6.（必做）把多线程和并发相关知识梳理一遍，画一个脑图，截图上传到 GitHub 上。 可选工具:xmind，百度脑图，wps，MindManage，或其他。
 
+### 总结
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week04/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91.png
+
+
 # 作业提交规范：
 
 - 作业不要打包 ；
