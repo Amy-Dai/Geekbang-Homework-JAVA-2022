@@ -7,7 +7,7 @@
 
 ### 解答
 
-实现代码：
+实现代码：https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week04/concurrency/src/main/java/com/example/concurrency/Homework.java
 
 运行截图：
 
