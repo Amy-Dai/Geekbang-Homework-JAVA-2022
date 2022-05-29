@@ -5,6 +5,15 @@
 
 一个简单的代码参考:  https://github.com/kimmking/JavaCourseCodes/tree/main/03concurrency/0301/src/main/java/java0/conc0303/Homework03.java
 
+### 解答
+
+实现代码：
+
+运行截图：
+
+![image](https://user-images.githubusercontent.com/56108927/170850516-3ebd1dfa-c75c-402d-b13e-6988acc8b621.png)
+
+
 ## 3.（选做）列举常用的并发操作 API 和工具类，简单分析其使用场景和优缺点。
 
 ## 4.（选做）请思考: 什么是并发? 什么是高并发? 实现高并发高可用系统需要考虑哪些 因素，对于这些你是怎么理解的?
