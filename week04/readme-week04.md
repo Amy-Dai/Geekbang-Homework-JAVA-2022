@@ -25,6 +25,8 @@
 ### 总结
 https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week04/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91.png
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week04/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%B9%B6%E5%8F%91.xmind
+
 
 # 作业提交规范：
 
