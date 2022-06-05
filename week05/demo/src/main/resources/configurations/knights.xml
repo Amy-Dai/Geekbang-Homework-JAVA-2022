@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-       xmlns:xsl="http://www.w3.org/2001/XMLSchema-instance"
-       xsl:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id = "knight" class="com.example.demo.spring.BraveKnight">
-        <constructor-arg ref="quest"></constructor-arg>
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+      http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="knight" class="sia.knights.BraveKnight">
+        <constructor-arg ref="quest" />
     </bean>
-    <bean id = "quest" class="com.example.demo.spring.SlayDragonQuest">
-        <constructor-arg value="#(T(System).out)"></constructor-arg>
+
+    <bean id="quest" class="sia.knights.SlayDragonQuest">
+        <constructor-arg value="#{T(System).out}" />
     </bean>
+
 </beans>
