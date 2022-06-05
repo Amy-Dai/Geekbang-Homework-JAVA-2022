@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsl="http://www.w3.org/2001/XMLSchema-instance"
+       xsl:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id = "knight" class="com.example.demo.spring.BraveKnight">
+        <constructor-arg ref="quest"></constructor-arg>
+    </bean>
+    <bean id = "quest" class="com.example.demo.spring.SlayDragonQuest">
+        <constructor-arg value="#(T(System).out)"></constructor-arg>
+    </bean>
+</beans>
