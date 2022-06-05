@@ -4,6 +4,10 @@
 
 ## 2.（必做）写代码实现 Spring Bean 的装配，方式越多越好（XML、Annotation 都可以）, 提交到 GitHub。
 
+### 解答
+
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week05/demo/src/main/java/com/example/demo/spring
+
 
 ## 3.（选做）实现一个 Spring XML 自定义配置，配置一组 Bean，例如：Student/Klass/School。
 
