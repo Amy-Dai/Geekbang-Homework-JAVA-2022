@@ -32,6 +32,11 @@ https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week05/demo/s
 
 ## 8.（必做）给前面课程提供的 Student/Klass/School 实现自动配置和 Starter。
 
+### 解答
+
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week05/demo/src/main/java/com/example/demo/spring/auto/soundsystem
+
+
 ## 9.（选做）学习 MyBatis-generator 的用法和原理，学会自定义 TypeHandler 处理复杂类型。
 
 ## 10.（必做）研究一下 JDBC 接口和数据库连接池，掌握它们的设计和用法：
