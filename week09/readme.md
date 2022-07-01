@@ -8,6 +8,9 @@
 
 尝试使用 Netty+HTTP 作为 client 端传输方式。
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week09/Q3/rpc-demo
+
+
 # 4.（选做☆☆））升级自定义 RPC 的程序：
 
 尝试使用压测并分析优化 RPC 性能；
@@ -31,6 +34,9 @@
 用户 B 的美元账户和人民币账户都在 B 库，使用 7 人民币兑换 1 美元 ;
 
 设计账户表，冻结资产表，实现上述两个本地事务的分布式事务。
+
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week09/Q7/himly-tcc-dubbo
+
 
 # 8.（挑战☆☆）尝试扩展 Dubbo
 
