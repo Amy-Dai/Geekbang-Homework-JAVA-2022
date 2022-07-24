@@ -21,7 +21,12 @@
 - 在 Java 中实现一个简单的分布式锁；
 - 在 Java 中实现一个分布式计数器，模拟减库存。
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week11/Q8
+
+
 # 9.（必做）基于 Redis 的 PubSub 实现订单异步处理
+
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week11/Q9
 
 # 10.（挑战☆）基于其他各类场景，设计并在示例代码中实现简单 demo：
 
