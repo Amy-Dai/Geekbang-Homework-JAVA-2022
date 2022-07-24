@@ -14,6 +14,9 @@ https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week12/Q1
 
 # 6.（必做）搭建 ActiveMQ 服务，基于 JMS，写代码分别实现对于 queue 和 topic 的消息生产和消费，代码提交到 github。
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/week12/Q6
+
+
 # 7.（选做）基于数据库的订单表，模拟消息队列处理订单：
 
 一个程序往表里写新订单，标记状态为未处理 (status=0);
