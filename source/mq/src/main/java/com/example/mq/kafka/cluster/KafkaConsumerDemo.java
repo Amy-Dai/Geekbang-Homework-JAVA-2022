@@ -1,7 +1,7 @@
-package com.example.mq.kafka.single;
+package com.example.mq.kafka.cluster;
 
 
-import com.example.mq.kafka.single.data.ConsumerImpl;
+import com.example.mq.kafka.cluster.data.ConsumerImpl;
 
 public class KafkaConsumerDemo {
 

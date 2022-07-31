@@ -1,4 +1,4 @@
-package com.example.mq.kafka.single;
+package com.example.mq.kafka.cluster;
 
 
 import lombok.AllArgsConstructor;

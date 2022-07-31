@@ -1,7 +1,7 @@
-package com.example.mq.kafka.single.data;
+package com.example.mq.kafka.cluster.data;
 
 import com.alibaba.fastjson.JSON;
-import com.example.mq.kafka.single.Order;
+import com.example.mq.kafka.cluster.Order;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
 

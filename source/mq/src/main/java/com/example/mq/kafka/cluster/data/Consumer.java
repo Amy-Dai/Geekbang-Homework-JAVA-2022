@@ -1,4 +1,4 @@
-package com.example.mq.kafka.single.data;
+package com.example.mq.kafka.cluster.data;
 
 public interface Consumer {
 

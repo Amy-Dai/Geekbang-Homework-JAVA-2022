@@ -1,6 +1,6 @@
-package com.example.mq.kafka.single;
+package com.example.mq.kafka.cluster;
 
-import com.example.mq.kafka.single.data.ProducerImpl;
+import com.example.mq.kafka.cluster.data.ProducerImpl;
 
 public class KafkaProducerDemo {
 
