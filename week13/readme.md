@@ -1,5 +1,15 @@
 # 1.（必做）搭建一个 3 节点 Kafka 集群，测试功能和性能；实现 spring kafka 下对 kafka 集群的操作，将代码提交到 github。
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/source/mq/src/main/java/com/example/mq/kafka/cluster
+
+基于docker的kafka实现。参考资料：
+https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b
+
+https://registry.hub.docker.com/r/wurstmeister/kafka#!
+
+https://github.com/wurstmeister/kafka-docker/wiki/Connectivity
+
+
 # 2.（选做）安装 kafka-manager 工具，监控 kafka 集群状态。
 
 # 3.（挑战☆）演练本课提及的各种生产者和消费者特性。
