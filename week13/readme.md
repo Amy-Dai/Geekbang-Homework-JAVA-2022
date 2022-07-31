@@ -3,8 +3,11 @@
 https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/source/mq/src/main/java/com/example/mq/kafka/cluster
 
 基于docker的kafka实现。参考资料：
-https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b
+单机：https://towardsdatascience.com/how-to-install-apache-kafka-using-docker-the-easy-way-4ceb00817d8b
 
+集群：https://blog.devgenius.io/kafka-cluster-on-docker-compose-dae9fcc8c092
+
+docker镜像：
 https://registry.hub.docker.com/r/wurstmeister/kafka#!
 
 https://github.com/wurstmeister/kafka-docker/wiki/Connectivity
