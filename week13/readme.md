@@ -26,4 +26,7 @@ https://github.com/wurstmeister/kafka-docker/wiki/Connectivity
 
 # 6.（必做）思考和设计自定义 MQ 第二个版本或第三个版本，写代码实现其中至少一个功能点，把设计思路和实现代码，提交到 GitHub。
 
+https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/tree/master/source/mq/src/main/java/com/example/mq/diy/core
+
+
 # 7.（挑战☆☆☆☆☆）完成所有其他版本的要求。期限一年。
