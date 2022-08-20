@@ -1,5 +1,6 @@
 # 毕业项目
 1. （必做）分别用 100 个字以上的一段话，加上一幅图（架构图或脑图），总结自己对下列技术的关键点思考和经验认识:
+- [JAVA工程师技术栈](https://github.com/Amy-Dai/Geekbang-Homework-JAVA-2022/blob/master/week15/JAVA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8A%80%E6%9C%AF%E6%A0%88.xmind)
 - [x] JVM
 > jvm是java虚拟机，它提供了一套编译的字节码运行环境，不同的jvm内存结构，存储的不同类型的数据。jvm提供了几种GC算法，常见的如:cms、G1。
 > jvm在多线程场景下，要注意它的语义和内存模型，volatile解决指令重排序，是由于jvm指令封装了对字节码操作的判断，触发对STOR、LOAD语义的执行。
